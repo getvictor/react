@@ -1,4 +1,4 @@
-Full article coming soon to https://victoronsoftware.com
+Full article at: https://victoronsoftware.com/posts/react-hello-world/
 
 To run this site locally:
 
